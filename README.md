@@ -30,4 +30,5 @@ Retrieve Me adds a smart layer to this behavior. It auto-categorizes your messag
 - Hosting: Vercel (frontend) + Render(backend)
 
 ## User Flow
-/ Retrieve Me.png
+
+![alt text](./Images/RetrieveMe.png)
