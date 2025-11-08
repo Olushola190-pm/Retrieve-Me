@@ -37,4 +37,4 @@ User → Web App → API → Database → Search/Display → User
 
 ## Future Improvements
 - AI-powered tagging
-- Multi-platform integrations (WhatsApp, Telegram, Slack)
+- Multi-platform integrations (WhatsApp, Telegram, Instagram, Slack)
