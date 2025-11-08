@@ -1,7 +1,7 @@
 # Retrieve Me - System Architecture
 
 ## Overview
-Retrieve Me is a personal knowledge management tool built on existing user behavior — using chat apps as a quick storage space. The system connects, categorizes, and makes this data searchable.
+Retrieve Me is a personal knowledge management tool built on existing user behavior using chat apps (Whatsapp, Telegram etc) as a quick storage space. The system connects, categorizes, and makes this data searchable.
 
 ## Architecture Layers
 1. **Frontend**
