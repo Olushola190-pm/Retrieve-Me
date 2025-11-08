@@ -6,15 +6,16 @@ Retrieve Me helps users organize and retrieve information they send to themselve
 Users rely on “Message Yourself” or private chats to save important files and notes. This space quickly becomes cluttered and unsearchable.
 
 ## The Solution
-Retrieve Me adds a smart layer to this behavior. It auto-categorizes your messages, links, receipts, and photos — turning them into a searchable, organized memory system.
+Retrieve Me adds a smart layer to this behavior. It auto-categorizes your messages, links, receipts, and photos, turning them into a searchable, organized memory system.
 
 ## Why It Matters
-People already use chat apps for personal storage. Retrieve Me transforms that habit into a productivity tool.
+  Retrieve Me helps transforms that habit into a productivity tool.
 
 ## Who It's For
 - Professionals managing quick references  
 - Students storing notes or resources  
-- Everyday users saving receipts, links, or voice notes  
+- Everyday users saving receipts, links, or voice notes 
+- Sales Rep, Entrepreneurs and etc. 
 
 ## Key Features
 - Auto-categorization (image, link, document, text)
